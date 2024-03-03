@@ -1,0 +1,9 @@
+.class-header{
+  background-color: hsl(0, 0%, 90%);
+  padding: 20px;
+}
+
+.class-header h1 {
+  text-align: center;
+  font-size: 3rem;
+}
